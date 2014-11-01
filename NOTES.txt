@@ -3,5 +3,5 @@ http://museumofcomputing.org.uk/visiting-the-museum (map, but bad one!)
 Objects plastic/print times (estimating prices):
 
 * hexafish loom - Filament required: 468.3mm (3.3102148cm3), 00:43:02 = £0.30
-* minecraft sword, customised at 20x - Filament required: 14.6mm (0.10320123cm3), ??
-* lpw-2014-0.2-4x - Filament required: 1518.1mm (10.730808cm3), 01:04:30 = £2.48
+* minecraft sword, customised at 20x - Filament required: 14.6mm (0.10320123cm3), 00:01:44
+* lpw-2014-0.2-4x - Filament required: 1518.1mm (10.730808cm3), 01:04:30 = £2.60
