@@ -4,4 +4,110 @@ Objects plastic/print times (estimating prices):
 
 * hexafish loom - Filament required: 468.3mm (3.3102148cm3), 00:43:02 = £0.30
 * minecraft sword, customised at 20x - Filament required: 14.6mm (0.10320123cm3), 00:01:44
-* lpw-2014-0.2-4x - Filament required: 1518.1mm (10.730808cm3), 01:04:30 = £2.60
+* lpw-2014-0.2-4x - Filament required: 1518.1mm (10.730808cm3), 01:04:30 = £1.02 (pre profit), or 25.42p each
+
+Instructions:
+
+1) Open OpenSCAD - This is a design program which does not require drawing skills, it will require a bit of thinking in 3D though!
+
+* image of blank openscad
+
+2) The OpenSCAD window has three areas: Left, the code, a set of descriptions of what we want it to draw; Top right, a 3D view of the model; Bottom right, the status of the model creation - look here for errors!
+
+* no image, so does text go with the above?
+
+3) Setup: To follow along with these instructions, visit the "View" menu and make sure the "Show Axes" option is ticked. To make sure the model picture always shows your current code, look in the "Design" menu and make sure the "Automatic Reload and Compile" option is ticked.
+
+* image(s) of openscad menus or with options set
+
+4) Get started! Lets draw something - to make a cube we type "cube" followed by parentheses to indicate parameters. Inside the parentheses we tell it the size (length of one of the edges), like this:
+
+    cube(size = 5);
+
+The end of a statement has a semi-colon ";" to show where it finishes.
+
+To show what this does, use CTRL+s (or File, Save) and save the file under your name, make sure there is a ".scad" file ending.
+
+If OpenSCAD only displays a square, use your left mouse button to drag the image a bit the left so that you see the cube.
+
+* image of cube(size=5) in openSCAD
+
+5) We can also draw cylinders, they need a height and a radius:
+
+    cylinder(h = 10, r = 4);
+
+Save again to see the cylinder.
+
+* image of cylinder(h = 10, r = 4);
+
+The cylinder doesn't look very round, to fix it we can set the "$fn" value in the code:
+
+    $fn = 50;
+    cylinder(h = 10, r = 4);
+
+* image of the above.
+
+6) Turn the cylinder into a cone by giving a radius for each end:
+
+    $fn n= 50;
+    cylinder(h = 10, r1 = 4, r2 = 0);
+
+7) We could put a head on that and call it a board game piece. How about a sphere:
+
+    $fn = 50;
+    cylinder(h = 10, r1 = 4, r2 = 0);
+
+    sphere(r=2.5);
+
+Oops, that should go on top of the cone, to move it upwards we use
+"translate", we need to tell it the movement in each of the three
+possible directions: X, Y and Z. To just move up, use 0 for X and Y.
+
+To move the sphere, put the translate before the sphere command:
+
+    $fn = 50;
+    cylinder(h = 10, r1 = 4, r2 = 0);
+
+    translate([0, 0, 9]) sphere(r=2.5);
+
+8) We can also add a hint of some arms, another small cylinder along
+the edge of the cone-body, first add the cylinder:
+
+    $fn = 50;
+    // body
+    cylinder(h = 10, r1 = 4, r2 = 0);
+
+    // head
+    translate([0, 0, 9]) sphere(r=2.5);
+
+    // arms
+    cylinder(h = 4, r = 1);
+
+I've also added some comments using "//" to help keep track of the pieces.
+
+That cylinder didn't appear? It's been drawn inside our cone body, use a "*" to hide the other parts for the moment:
+
+    $fn = 50;
+    // body
+    *cylinder(h = 10, r1 = 4, r2 = 0);
+
+    // head
+    *translate([0, 0, 9]) sphere(r=2.5);
+
+    // arms
+    cylinder(h = 4, r = 1);
+
+9) The arm needs to move to lie alongside the edges of the cone, so we
+need to rotate it, and then move it upwards, rotation is done using
+the "rotate" function, using an angle (in degrees) and an axis to
+rotate around.
+
+Move the arm part down, then rotate it around Y:
+
+    // arms
+    rotate(a=30, v=[0,1,0]) translate([0, 0, -4]) cylinder(h = 4, r = 1);
+    
+10) We'll need two of them, we can just mirror this part across the other side using "mirror":
+
+    // arms
+    mirror([]) rotate(a=30, v=[0,1,0]) translate([0, 0, -4]) cylinder(h = 4, r = 1);
