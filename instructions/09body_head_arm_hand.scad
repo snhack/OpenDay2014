@@ -6,5 +6,7 @@ $fn = 50;
 *translate([0, 0, 9]) sphere(r=2.5);
 
 // arms
-rotate(a=30, v=[0,1,0]) translate([0, 0, -4]) cylinder(h = 4, r = 1);
+cylinder(h = 4, r = 1);
+sphere(r=1);
+
 

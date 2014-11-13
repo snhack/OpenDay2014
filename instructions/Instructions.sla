@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.4.3.svn">
+    <DOCUMENT ANZPAGES="5" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="A4" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="0" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="2" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPMo="ø0ü±" DPPr="Fogra27L CMYK Coated Press" DPIn="ø0ü±" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="ø0ü±" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="English" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" MINGRID="20" MAJGRID="100" SHOWGRID="1" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWControl="0" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.5" POLYR="0" POLYCUR="0" POLYFD="0" POLYS="0" AutoSave="1" AutoSaveTime="600000" ScratchBottom="20" ScratchLeft="100" ScratchRight="100" ScratchTop="20" GapHorizontal="0" GapVertical="40" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10" dispY="10" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" GuideZ="10" BACKG="1" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <COLOR NAME="Black" CMYK="#000000ff" Spot="0" Register="0"/>
+        <COLOR NAME="Blue" RGB="#0000ff" Spot="0" Register="0"/>
+        <COLOR NAME="Cool Black" CMYK="#990000ff" Spot="0" Register="0"/>
+        <COLOR NAME="Cyan" CMYK="#ff000000" Spot="0" Register="0"/>
+        <COLOR NAME="Green" RGB="#00ff00" Spot="0" Register="0"/>
+        <COLOR NAME="Magenta" CMYK="#00ff0000" Spot="0" Register="0"/>
+        <COLOR NAME="Red" RGB="#ff0000" Spot="0" Register="0"/>
+        <COLOR NAME="Registration" CMYK="#ffffffff" Spot="0" Register="1"/>
+        <COLOR NAME="Rich Black" CMYK="#996666ff" Spot="0" Register="0"/>
+        <COLOR NAME="Warm Black" CMYK="#00994cff" Spot="0" Register="0"/>
+        <COLOR NAME="White" CMYK="#00000000" Spot="0" Register="0"/>
+        <COLOR NAME="Yellow" CMYK="#0000ff00" Spot="0" Register="0"/>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Arial Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="255" useAltPrintCommand="255" outputSeparations="255" useSpotColors="255" useColor="255" mirrorH="255" mirrorV="255" useICC="255" doGCR="255" doClip="255" setDevParam="255" useDocBleeds="255" cropMarks="255" bleedMarks="255" registrationMarks="255" colorMarks="255" includePDFMarks="255" PSLevel="-1" PDLanguage="-1" markOffset="nan" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="ø0ü±" ImageP="ø0ü±" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
+            <Fonts Name="Arial Regular"/>
+            <Subset Name="FreeMono Regular"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <LPI Color="" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Double Sided" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="4" Type="Type_1_2_3" Start="1" Reversed="0" Active="1"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="Normal" MNAM="" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="901.89" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="1783.78" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="2" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="2665.67" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="3" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="3547.56" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="4" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="161.108910891089" YPOS="80" WIDTH="240.069306930693" HEIGHT="239.366336633663" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="13" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 240.069 0 240.069 0 240.069 0 240.069 0 240.069 239.366 240.069 239.366 240.069 239.366 240.069 239.366 0 239.366 0 239.366 0 239.366 0 239.366 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 240.069 0 240.069 0 240.069 0 240.069 0 240.069 239.366 240.069 239.366 240.069 239.366 240.069 239.366 0 239.366 0 239.366 0 239.366 0 239.366 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="13" CH="1. Open OpenSCAD - This is a design program which does not require drawing skills, it will require a bit of thinking in 3D though!"/>
+            <para/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="2. The OpenSCAD window has three areas: "/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="Left, the code, a set of descriptions of what we want it to draw; "/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="Top right, a 3D view of the model; "/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="Bottom right, the status of the model creation - look here for errors!"/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="421.306930693069" YPOS="81.2673267326733" WIDTH="200" HEIGHT="150.415841584158" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.200601805416249" LOCALSCY="0.200601805416249" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="imagers/01start.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 200 0 200 0 200 0 200 0 200 150.416 200 150.416 200 150.416 200 150.416 0 150.416 0 150.416 0 150.416 0 150.416 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 200 0 200 0 200 0 200 0 200 150.416 200 150.416 200 150.416 200 150.416 0 150.416 0 150.416 0 150.416 0 150.416 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="160.39603960396" YPOS="358.554455445545" WIDTH="240.207920792079" HEIGHT="150" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="13" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 240.208 0 240.208 0 240.208 0 240.208 0 240.208 150 240.208 150 240.208 150 240.208 150 0 150 0 150 0 150 0 150 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 240.208 0 240.208 0 240.208 0 240.208 0 240.208 150 240.208 150 240.208 150 240.208 150 0 150 0 150 0 150 0 150 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="13" CH="3) Setup: To follow along with these instructions, visit the &quot;View&quot; menu and make sure the &quot;Show Axes&quot; option is ticked. To make sure the model picture always shows your current code, look in the &quot;Design&quot; menu and make sure the &quot;Automatic Reload and Compile&quot; option is ticked."/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="419.594059405941" YPOS="359.980198019802" WIDTH="200" HEIGHT="150" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.200601805416249" LOCALSCY="0.200601805416249" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="imagers/03axes.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 200 0 200 0 200 0 200 0 200 150 200 150 200 150 200 150 0 150 0 150 0 150 0 150 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 200 0 200 0 200 0 200 0 200 150 200 150 200 150 200 150 0 150 0 150 0 150 0 150 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="160" YPOS="539" WIDTH="239.742574257426" HEIGHT="262.980198019802" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="14" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 239.743 0 239.743 0 239.743 0 239.743 0 239.743 262.98 239.743 262.98 239.743 262.98 239.743 262.98 0 262.98 0 262.98 0 262.98 0 262.98 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 239.743 0 239.743 0 239.743 0 239.743 0 239.743 262.98 239.743 262.98 239.743 262.98 239.743 262.98 0 262.98 0 262.98 0 262.98 0 262.98 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="420.851485148515" gHeight="281.514851485149" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="13" CH="4) Get started! Lets draw something - to make a cube we type &quot;cube&quot; followed by parentheses to indicate parameters. Inside the parentheses we tell it the size (length of the edges), like this:"/>
+            <para/>
+            <para/>
+            <ITEXT CH="        "/>
+            <ITEXT FONT="FreeMono Regular" CH="cube(size = 5);"/>
+            <para/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="The end of a statement has a semi-colon &quot;;&quot; to show where it finishes."/>
+            <para/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="To show what this does, use CTRL+s (or File, Save) and save the file under your name, make"/>
+            <ITEXT FONTSIZE="14" CH=" "/>
+            <ITEXT FONTSIZE="13" CH="sure it has a &quot;.scad&quot; file ending."/>
+            <para/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="399" YPOS="729.80198019802" WIDTH="220.594059405941" HEIGHT="73.7128712871288" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 220.594 0 220.594 0 220.594 0 220.594 0 220.594 73.7129 220.594 73.7129 220.594 73.7129 220.594 73.7129 0 73.7129 0 73.7129 0 73.7129 0 73.7129 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 220.594 0 220.594 0 220.594 0 220.594 0 220.594 73.7129 220.594 73.7129 220.594 73.7129 220.594 73.7129 0 73.7129 0 73.7129 0 73.7129 0 73.7129 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="200.257425742574" gYpos="179.574257425743" gWidth="420.851485148515" gHeight="281.514851485149" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="13" CH="If OpenSCAD only displays a square, use your left mouse button to drag the image a bit the left so that you see the cube."/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="421.306930693069" YPOS="540.356435643564" WIDTH="200" HEIGHT="150" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.200400801603206" LOCALSCY="0.200400801603206" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="imagers/04cube.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 200 0 200 0 200 0 200 0 200 150 200 150 200 150 200 150 0 150 0 150 0 150 0 150 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 200 0 200 0 200 0 200 0 200 150 200 150 200 150 200 150 0 150 0 150 0 150 0 150 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="160" YPOS="961.663366336634" WIDTH="240" HEIGHT="150" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="13" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 240 0 240 0 240 0 240 0 240 150 240 150 240 150 240 150 0 150 0 150 0 150 0 150 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 240 0 240 0 240 0 240 0 240 150 240 150 240 150 240 150 0 150 0 150 0 150 0 150 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="13" CH="5) We can also draw cylinders, they need a height and a radius:"/>
+            <para/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="    cylinder(h = 10, r = 4);"/>
+            <para/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="Save again to see the cylinder."/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="2" XPOS="422.019801980198" YPOS="961.89" WIDTH="200" HEIGHT="150" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.200400801603206" LOCALSCY="0.200400801603206" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="imagers/05cylinder.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 200 0 200 0 200 0 200 0 200 150 200 150 200 150 200 150 0 150 0 150 0 150 0 150 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 200 0 200 0 200 0 200 0 200 150 200 150 200 150 200 150 0 150 0 150 0 150 0 150 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="161.108910891089" YPOS="1141.89" WIDTH="240" HEIGHT="150" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="13" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 240 0 240 0 240 0 240 0 240 150 240 150 240 150 240 150 0 150 0 150 0 150 0 150 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 240 0 240 0 240 0 240 0 240 150 240 150 240 150 240 150 0 150 0 150 0 150 0 150 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="13" CH="The cylinder doesn't look very round, to fix it we can set the &quot;$fn&quot; value in the code:"/>
+            <para/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="    $fn = 50;"/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="    cylinder(h = 10, r = 4);"/>
+            <para/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="2" XPOS="421.306930693069" YPOS="1141.89" WIDTH="200" HEIGHT="150" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.200400801603206" LOCALSCY="0.200400801603206" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="imagers/05cylinder_b.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 200 0 200 0 200 0 200 0 200 150 200 150 200 150 200 150 0 150 0 150 0 150 0 150 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 200 0 200 0 200 0 200 0 200 150 200 150 200 150 200 150 0 150 0 150 0 150 0 150 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="161.108910891089" YPOS="1323.08910891089" WIDTH="240" HEIGHT="150" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="13" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 240 0 240 0 240 0 240 0 240 150 240 150 240 150 240 150 0 150 0 150 0 150 0 150 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 240 0 240 0 240 0 240 0 240 150 240 150 240 150 240 150 0 150 0 150 0 150 0 150 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="13" CH="6) Turn the cylinder into a cone by giving a radius for each end:"/>
+            <para/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="    $fn = 50;"/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="    cylinder(h = 10, r1 = 4, r2 = 0);"/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="2" XPOS="420.594059405941" YPOS="1322.37623762376" WIDTH="200" HEIGHT="150" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.200400801603206" LOCALSCY="0.200400801603206" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="imagers/06cone.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 200 0 200 0 200 0 200 0 200 150 200 150 200 150 200 150 0 150 0 150 0 150 0 150 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 200 0 200 0 200 0 200 0 200 150 200 150 200 150 200 150 0 150 0 150 0 150 0 150 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="161.108910891089" YPOS="1501.30693069307" WIDTH="240" HEIGHT="150" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="13" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 240 0 240 0 240 0 240 0 240 150 240 150 240 150 240 150 0 150 0 150 0 150 0 150 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 240 0 240 0 240 0 240 0 240 150 240 150 240 150 240 150 0 150 0 150 0 150 0 150 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="13" CH="7) We could put a head on that and call it a board game piece. How about a sphere:"/>
+            <para/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="    $fn = 50;"/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="    cylinder(h = 10, r1 = 4, r2 = 0);"/>
+            <para/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="    sphere(r=2.5);"/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="2" XPOS="420.594059405941" YPOS="1501.89" WIDTH="200" HEIGHT="150" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.200400801603206" LOCALSCY="0.200400801603206" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="imagers/07cone_sphere.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 200 0 200 0 200 0 200 0 200 150 200 150 200 150 200 150 0 150 0 150 0 150 0 150 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 200 0 200 0 200 0 200 0 200 150 200 150 200 150 200 150 0 150 0 150 0 150 0 150 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="161.821782178218" YPOS="1842.77227722772" WIDTH="240" HEIGHT="261.007722772277" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="13" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 240 0 240 0 240 0 240 0 240 261.008 240 261.008 240 261.008 240 261.008 0 261.008 0 261.008 0 261.008 0 261.008 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 240 0 240 0 240 0 240 0 240 261.008 240 261.008 240 261.008 240 261.008 0 261.008 0 261.008 0 261.008 0 261.008 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="13" CH="Oops, that should go on top of the cone, to move it upwards we use"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="&quot;translate&quot;, we need to tell it the movement in each of the three"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="possible directions: X, Y and Z. To just move up, use 0 for X and Y."/>
+            <para/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="To move the sphere, put the translate before the sphere command:"/>
+            <para/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="    $fn = 50;"/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="    cylinder(h = 10, r1 = 4, r2 = 0);"/>
+            <para/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH=" "/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="   translate([0, 0, 9]) sphere(r=2.5);"/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="2" PTYPE="2" XPOS="420" YPOS="1843.78" WIDTH="200" HEIGHT="150" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.200400801603206" LOCALSCY="0.200400801603206" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="imagers/07cone_sphere_b.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 200 0 200 0 200 0 200 0 200 150 200 150 200 150 200 150 0 150 0 150 0 150 0 150 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 200 0 200 0 200 0 200 0 200 150 200 150 200 150 200 150 0 150 0 150 0 150 0 150 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="160.247524752475" YPOS="2123.35643564356" WIDTH="240" HEIGHT="296.128712871287" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="13" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 240 0 240 0 240 0 240 0 240 296.129 240 296.129 240 296.129 240 296.129 0 296.129 0 296.129 0 296.129 0 296.129 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 240 0 240 0 240 0 240 0 240 296.129 240 296.129 240 296.129 240 296.129 0 296.129 0 296.129 0 296.129 0 296.129 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="13" CH="8) We can also add a hint of some arms, another small cylinder along"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="the edge of the cone-body, first add the cylinder:"/>
+            <para/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="    $fn = 50;"/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="    // body"/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="    cylinder(h = 10, r1 = 4, r2 = 0);"/>
+            <para/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="    // head"/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="    translate([0, 0, 9]) sphere(r=2.5);"/>
+            <para/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="    // arms"/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="    cylinder(h = 4, r = 1);"/>
+            <para/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="I've also added some comments using &quot;//&quot; to help keep track of the pieces."/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="2" PTYPE="2" XPOS="420.594059405941" YPOS="2123.78" WIDTH="200" HEIGHT="145.090180360721" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.200400801603206" LOCALSCY="0.200400801603206" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="imagers/07cone_sphere_b.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 200 0 200 0 200 0 200 0 200 145.09 200 145.09 200 145.09 200 145.09 0 145.09 0 145.09 0 145.09 0 145.09 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 200 0 200 0 200 0 200 0 200 145.09 200 145.09 200 145.09 200 145.09 0 145.09 0 145.09 0 145.09 0 145.09 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="160" YPOS="2725.30693069307" WIDTH="240" HEIGHT="301.544554455445" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="13" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 240 0 240 0 240 0 240 0 240 301.545 240 301.545 240 301.545 240 301.545 0 301.545 0 301.545 0 301.545 0 301.545 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 240 0 240 0 240 0 240 0 240 301.545 240 301.545 240 301.545 240 301.545 0 301.545 0 301.545 0 301.545 0 301.545 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="13" CH="8) We can also add a hint of some arms, another small cylinder along"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="the edge of the cone-body, first add the cylinder:"/>
+            <para/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="    $fn = 50;"/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="    // body"/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="    cylinder(h = 10, r1 = 4, r2 = 0);"/>
+            <para/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="    // head"/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="    translate([0, 0, 9]) sphere(r=2.5);"/>
+            <para/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="    // arms"/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="    cylinder(h = 4, r = 1);"/>
+            <para/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="I've also added some comments using &quot;//&quot; to help keep track of the pieces."/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="3" PTYPE="2" XPOS="420.594059405941" YPOS="2725.67" WIDTH="200" HEIGHT="150" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.200400801603206" LOCALSCY="0.200400801603206" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="imagers/08body_head_arm.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 200 0 200 0 200 0 200 0 200 150 200 150 200 150 200 150 0 150 0 150 0 150 0 150 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 200 0 200 0 200 0 200 0 200 150 200 150 200 150 200 150 0 150 0 150 0 150 0 150 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="161.821782178218" YPOS="3065.34653465347" WIDTH="240" HEIGHT="320.323465346535" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="13" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 240 0 240 0 240 0 240 0 240 320.323 240 320.323 240 320.323 240 320.323 0 320.323 0 320.323 0 320.323 0 320.323 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 240 0 240 0 240 0 240 0 240 320.323 240 320.323 240 320.323 240 320.323 0 320.323 0 320.323 0 320.323 0 320.323 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="13" CH="10) The arm needs to move to lie alongside the edges of the cone, so"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="we need to rotate it, rotation is done using the &quot;rotate&quot; function,"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="using an angle (in degrees) and an axis to rotate around. To make"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="rotation easy, move an end to 0,0,0 first."/>
+            <para/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="Move the arm part down, then rotate it around Y:"/>
+            <para/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH=" "/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="   ..."/>
+            <para/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="    // arms"/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="    rotate(a=30, v=[0,1,0]) translate([0, 0, -4]) {"/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="        cylinder(h = 4, r = 1);"/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="        sphere(r=1);"/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="    }"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="    "/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="3" PTYPE="2" XPOS="420.594059405941" YPOS="3065.67" WIDTH="200" HEIGHT="150" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.200601805416249" LOCALSCY="0.200601805416249" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="imagers/10arm.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 200 0 200 0 200 0 200 0 200 150 200 150 200 150 200 150 0 150 0 150 0 150 0 150 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 200 0 200 0 200 0 200 0 200 150 200 150 200 150 200 150 0 150 0 150 0 150 0 150 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="160.39603960396" YPOS="3607.12871287129" WIDTH="240" HEIGHT="387.80198019802" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="13" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 240 0 240 0 240 0 240 0 240 387.802 240 387.802 240 387.802 240 387.802 0 387.802 0 387.802 0 387.802 0 387.802 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 240 0 240 0 240 0 240 0 240 387.802 240 387.802 240 387.802 240 387.802 0 387.802 0 387.802 0 387.802 0 387.802 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="13" CH="We'll need two of them, we can just mirror this part across the other side using &quot;mirror&quot;:"/>
+            <para/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="    ..."/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="    "/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="    // arms (1)"/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="    mirror([]) rotate(a=30, v=[0,1,0]) translate([0, 0, -4]) {"/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="        cylinder(h = 4, r = 1);"/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="        sphere(r=1);"/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="    }"/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="    // arms (2)"/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="    rotate(a=30, v=[0,1,0]) translate([0, 0, -4]) {"/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="        cylinder(h = 4, r = 1);"/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="        sphere(r=1);"/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="    }"/>
+            <para/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="Note how we wrapped the arm+hand (cylinder+sphere) in curly braces to"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="apply these commands to both pieces."/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="2" XPOS="422.019801980198" YPOS="3607.12871287129" WIDTH="200" HEIGHT="150" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.200601805416249" LOCALSCY="0.200601805416249" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="imagers/10arm_b.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 200 0 200 0 200 0 200 0 200 150 200 150 200 150 200 150 0 150 0 150 0 150 0 150 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 200 0 200 0 200 0 200 0 200 150 200 150 200 150 200 150 0 150 0 150 0 150 0 150 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="161.108910891089" YPOS="4012.56" WIDTH="240" HEIGHT="325.974653465347" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="13" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 240 0 240 0 240 0 240 0 240 325.975 240 325.975 240 325.975 240 325.975 0 325.975 0 325.975 0 325.975 0 325.975 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 240 0 240 0 240 0 240 0 240 325.975 240 325.975 240 325.975 240 325.975 0 325.975 0 325.975 0 325.975 0 325.975 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="13" CH="11) Attach the arms to the body by moving them back up high enough to"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="align with the cone-body, don't forget to wrap both arms in curly braces again:"/>
+            <para/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="    $fn = 50;"/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="    // body"/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="    cylinder(h = 10, r1 = 4, r2 = 0);"/>
+            <para/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="    // head"/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="    translate([0, 0, 9]) sphere(r=2.5);"/>
+            <para/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="    // arms"/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="    translate([0,0,7]) {"/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="      mirror([1,0,0]) rotate(a=35, v=[0,1,0]) translate([0, 0, -4]) {"/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="         cylinder(h = 4, r = 1);"/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="2" XPOS="421.306930693069" YPOS="4028.43564356436" WIDTH="200" HEIGHT="150" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="ø0ü±" EPROF="" IRENDER="0" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 200 0 200 0 200 0 200 0 200 150 200 150 200 150 200 150 0 150 0 150 0 150 0 150 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 200 0 200 0 200 0 200 0 200 150 200 150 200 150 200 150 0 150 0 150 0 150 0 150 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="422.732673267327" YPOS="4188.11881188119" WIDTH="200" HEIGHT="152.554455445545" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 200 0 200 0 200 0 200 0 200 152.554 200 152.554 200 152.554 200 152.554 0 152.554 0 152.554 0 152.554 0 152.554 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 200 0 200 0 200 0 200 0 200 152.554 200 152.554 200 152.554 200 152.554 0 152.554 0 152.554 0 152.554 0 152.554 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="        sphere(r=1);"/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="      }"/>
+            <para/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="      rotate(a=35, v=[0,1,0]) translate([0, 0, -4]) {"/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="        cylinder(h = 4, r = 1);"/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="        sphere(r=1);"/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="      }"/>
+            <para/>
+            <ITEXT FONT="FreeMono Regular" FONTSIZE="13" CH="    }"/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
